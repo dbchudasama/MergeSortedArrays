@@ -1,0 +1,12 @@
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.AssemblyInfoInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.AssemblyInfo.cs
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.csproj.CoreCompileInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.exe
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.deps.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.runtimeconfig.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.runtimeconfig.dev.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.genruntimeconfig.cache
